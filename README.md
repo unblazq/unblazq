@@ -5,7 +5,7 @@ Je développe principalement des marques sur Discord, j'ai récemment fondé Wae
 J'ai également fondé et développé https://guildtags.com/ mais aussi développé avec mon plus fidèles ami Alexy https://helm-bot.com/
 Ce Github est récent est normal (j'ai juste perdu mon compte comme un looser)
 
-Si vous souhaitez me contact voici mes réseaux:
+Si vous souhaitez me contacter voici mes réseaux:
 
 
 <div align="center">
