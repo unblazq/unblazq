@@ -1,13 +1,3 @@
-Hello, je sais pas trop quoi mettre.. 
-J'était anciennement développeur cfx: donc redm/fivem (donc si vous trouvé des repo récente, c'est soit coup de nostalgie, soit une petit MàJ)
-Je développe principalement des marques sur Discord, j'ai récemment fondé Waevee Agency. Une agence de gestion Discord.
-
-J'ai également fondé et développé https://guildtags.com/ mais aussi développé avec mon plus fidèles ami Alexy https://helm-bot.com/
-Ce Github est récent est normal (j'ai juste perdu mon compte comme un looser :/)
-
-Si vous souhaitez me contacter voici mes réseaux:
-
-
 <div align="center">
   <a href="https://www.instagram.com/unblazq/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
